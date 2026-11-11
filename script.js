@@ -103,7 +103,7 @@ loopSusto();
         botao.addEventListener("click", function () {
 
             ativarGlitch();
-                 window.open("https://www.youtube.com/watch?v=L59p6xiAaJs&list=RDL59p6xiAaJs&start_radio=1&pp=oAcB", "_blank");
+                 window.open("https://youtu.be/lPLb_sZ4DMo", "_blank");
             
 
         });
